@@ -12,8 +12,6 @@
 <string>software-package</string>
 <key>url</key>
 <string>http://192.168.1.237:8032/8thManage/iosVersion.jsp</string>
-<key>New item</key>
-<string></string>
 </dict>
 </array>
 <key>metadata</key>
@@ -25,7 +23,7 @@
 <key>kind</key>
 <string>software</string>
 <key>title</key>
-<string>8M测试</string>
+<string>8M</string>
 </dict>
 </dict>
 </array>

@@ -19,7 +19,7 @@
 <key>needs-shine</key>
 <true/>
 <key>url</key>
-<string>http://192.168.1.237:8032/8thManage/download/iosclient/Icon@2x.png</string>
+<string>http://192.168.1.237:8032/8thManage/download/iosclient/textIcon@2x.png</string>
 </dict>
 <dict>
 <key>kind</key>
@@ -27,7 +27,7 @@
 <key>needs-shine</key>
 <true/>
 <key>url</key>
-<string>http://192.168.1.237:8032/8thManage/download/iosclient/Icon.png</string>
+<string>http://192.168.1.237:8032/8thManage/download/iosclient/textIcon.png</string>
 </dict>
 </array>
 <key>metadata</key>

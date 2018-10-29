@@ -19,7 +19,7 @@
 <key>needs-shine</key>
 <true/>
 <key>url</key>
-<string></string>
+<string>http://192.168.1.237:8032/8thManage/download/iosclient/Icon@2x.png</string>
 </dict>
 </array>
 <key>metadata</key>

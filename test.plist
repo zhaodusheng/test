@@ -10,12 +10,16 @@
 <dict>
 <key>kind</key>
 <string>software-package</string>
+<key>needs-shine</key>
+<true/>
 <key>url</key>
 <string>http://192.168.1.237:8032/8thManage/download/iosclient/8thManage.ipa</string>
 </dict>
 <dict>
 <key>kind</key>
 <string>full-size-image</string>
+<key>needs-shine</key>
+<true/>
 <key>url</key>
 <string>http://192.168.1.237:8032/8thManage/download/iosclient/image.512x512.png</string>
 </dict>
